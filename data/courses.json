@@ -1,0 +1,2473 @@
+{
+  "data": {
+    "courseStatsDetails": {
+      "tourCode": "R",
+      "year": 2024,
+      "round": "ALL",
+      "headers": [
+        "PAR",
+        "YARDS",
+        "AVG",
+        "+/-",
+        "EAGLE-",
+        "BIRDIE",
+        "PAR",
+        "BOGEY",
+        "DBL BOGEY",
+        "DBL BOGEY+"
+      ],
+      "displayName": "Toughest Courses",
+      "tableName": "All Courses",
+      "rows": [
+        {
+          "rank": 1,
+          "displayName": "Pinehurst Resort & Country Club (Course No. 2)",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7548",
+              "tendency": null
+            },
+            {
+              "value": "72.891",
+              "tendency": null
+            },
+            {
+              "value": "+2.891",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "20",
+              "tendency": null
+            },
+            {
+              "value": "1007",
+              "tendency": null
+            },
+            {
+              "value": "5179",
+              "tendency": null
+            },
+            {
+              "value": "1819",
+              "tendency": null
+            },
+            {
+              "value": "212",
+              "tendency": null
+            },
+            {
+              "value": "43",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024026",
+          "tournamentName": "U.S. Open"
+        },
+        {
+          "rank": 2,
+          "displayName": "Royal Troon",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7385",
+              "tendency": null
+            },
+            {
+              "value": "73.851",
+              "tendency": null
+            },
+            {
+              "value": "+2.851",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "13",
+              "tendency": null
+            },
+            {
+              "value": "1107",
+              "tendency": null
+            },
+            {
+              "value": "5254",
+              "tendency": null
+            },
+            {
+              "value": "1786",
+              "tendency": null
+            },
+            {
+              "value": "235",
+              "tendency": null
+            },
+            {
+              "value": "65",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024100",
+          "tournamentName": "The Open Championship"
+        },
+        {
+          "rank": 3,
+          "displayName": "Augusta National Golf Club",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7555",
+              "tendency": null
+            },
+            {
+              "value": "73.906",
+              "tendency": null
+            },
+            {
+              "value": "+1.906",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "21",
+              "tendency": null
+            },
+            {
+              "value": "866",
+              "tendency": null
+            },
+            {
+              "value": "3202",
+              "tendency": null
+            },
+            {
+              "value": "1099",
+              "tendency": null
+            },
+            {
+              "value": "154",
+              "tendency": null
+            },
+            {
+              "value": "22",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024014",
+          "tournamentName": "Masters Tournament"
+        },
+        {
+          "rank": 4,
+          "displayName": "Muirfield Village Golf Club",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7569",
+              "tendency": null
+            },
+            {
+              "value": "73.504",
+              "tendency": null
+            },
+            {
+              "value": "+1.504",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "21",
+              "tendency": null
+            },
+            {
+              "value": "750",
+              "tendency": null
+            },
+            {
+              "value": "2716",
+              "tendency": null
+            },
+            {
+              "value": "877",
+              "tendency": null
+            },
+            {
+              "value": "117",
+              "tendency": null
+            },
+            {
+              "value": "19",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024023",
+          "tournamentName": "the Memorial Tournament presented by Workday"
+        },
+        {
+          "rank": 5,
+          "displayName": "Colonial Country Club",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7289",
+              "tendency": null
+            },
+            {
+              "value": "70.824",
+              "tendency": null
+            },
+            {
+              "value": "+.824",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "11",
+              "tendency": null
+            },
+            {
+              "value": "1116",
+              "tendency": null
+            },
+            {
+              "value": "4804",
+              "tendency": null
+            },
+            {
+              "value": "1195",
+              "tendency": null
+            },
+            {
+              "value": "112",
+              "tendency": null
+            },
+            {
+              "value": "16",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024021",
+          "tournamentName": "Charles Schwab Challenge"
+        },
+        {
+          "rank": 6,
+          "displayName": "Quail Hollow Club",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7538",
+              "tendency": null
+            },
+            {
+              "value": "71.731",
+              "tendency": null
+            },
+            {
+              "value": "+.732",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "24",
+              "tendency": null
+            },
+            {
+              "value": "899",
+              "tendency": null
+            },
+            {
+              "value": "2950",
+              "tendency": null
+            },
+            {
+              "value": "906",
+              "tendency": null
+            },
+            {
+              "value": "112",
+              "tendency": null
+            },
+            {
+              "value": "5",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024480",
+          "tournamentName": "Wells Fargo Championship"
+        },
+        {
+          "rank": 7,
+          "displayName": "TPC San Antonio (Oaks Course)",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7438",
+              "tendency": null
+            },
+            {
+              "value": "72.514",
+              "tendency": null
+            },
+            {
+              "value": "+.514",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "25",
+              "tendency": null
+            },
+            {
+              "value": "1525",
+              "tendency": null
+            },
+            {
+              "value": "5368",
+              "tendency": null
+            },
+            {
+              "value": "1398",
+              "tendency": null
+            },
+            {
+              "value": "177",
+              "tendency": null
+            },
+            {
+              "value": "21",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024041",
+          "tournamentName": "Valero Texas Open"
+        },
+        {
+          "rank": 8,
+          "displayName": "Innisbrook Resort (Copperhead Course)",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7340",
+              "tendency": null
+            },
+            {
+              "value": "71.408",
+              "tendency": null
+            },
+            {
+              "value": "+.408",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "35",
+              "tendency": null
+            },
+            {
+              "value": "1425",
+              "tendency": null
+            },
+            {
+              "value": "5179",
+              "tendency": null
+            },
+            {
+              "value": "1368",
+              "tendency": null
+            },
+            {
+              "value": "132",
+              "tendency": null
+            },
+            {
+              "value": "15",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024475",
+          "tournamentName": "Valspar Championship"
+        },
+        {
+          "rank": 9,
+          "displayName": "Torrey Pines Golf Course (South Course)",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7765",
+              "tendency": null
+            },
+            {
+              "value": "72.402",
+              "tendency": null
+            },
+            {
+              "value": "+.403",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "33",
+              "tendency": null
+            },
+            {
+              "value": "991",
+              "tendency": null
+            },
+            {
+              "value": "3524",
+              "tendency": null
+            },
+            {
+              "value": "999",
+              "tendency": null
+            },
+            {
+              "value": "79",
+              "tendency": null
+            },
+            {
+              "value": "8",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024004",
+          "tournamentName": "Farmers Insurance Open"
+        },
+        {
+          "rank": 10,
+          "displayName": "Arnold Palmer's Bay Hill Club & Lodge",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7466",
+              "tendency": null
+            },
+            {
+              "value": "72.331",
+              "tendency": null
+            },
+            {
+              "value": "+.331",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "15",
+              "tendency": null
+            },
+            {
+              "value": "878",
+              "tendency": null
+            },
+            {
+              "value": "2805",
+              "tendency": null
+            },
+            {
+              "value": "775",
+              "tendency": null
+            },
+            {
+              "value": "86",
+              "tendency": null
+            },
+            {
+              "value": "13",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024009",
+          "tournamentName": "Arnold Palmer Invitational presented by Mastercard"
+        },
+        {
+          "rank": 11,
+          "displayName": "Hamilton Golf & Country Club",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7084",
+              "tendency": null
+            },
+            {
+              "value": "70.288",
+              "tendency": null
+            },
+            {
+              "value": "+.288",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "46",
+              "tendency": null
+            },
+            {
+              "value": "1473",
+              "tendency": null
+            },
+            {
+              "value": "4978",
+              "tendency": null
+            },
+            {
+              "value": "1448",
+              "tendency": null
+            },
+            {
+              "value": "111",
+              "tendency": null
+            },
+            {
+              "value": "8",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024032",
+          "tournamentName": "RBC Canadian Open"
+        },
+        {
+          "rank": 12,
+          "displayName": "Memorial Park Golf Course",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7435",
+              "tendency": null
+            },
+            {
+              "value": "70.247",
+              "tendency": null
+            },
+            {
+              "value": "+.247",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "29",
+              "tendency": null
+            },
+            {
+              "value": "1431",
+              "tendency": null
+            },
+            {
+              "value": "5235",
+              "tendency": null
+            },
+            {
+              "value": "1330",
+              "tendency": null
+            },
+            {
+              "value": "120",
+              "tendency": null
+            },
+            {
+              "value": "9",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024020",
+          "tournamentName": "Texas Children's Houston Open"
+        },
+        {
+          "rank": 13,
+          "displayName": "Sea Island Golf Club (Seaside Course)",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7005",
+              "tendency": null
+            },
+            {
+              "value": "70.017",
+              "tendency": null
+            },
+            {
+              "value": "+.017",
+              "tendency": "ABOVE"
+            },
+            {
+              "value": "21",
+              "tendency": null
+            },
+            {
+              "value": "991",
+              "tendency": null
+            },
+            {
+              "value": "3329",
+              "tendency": null
+            },
+            {
+              "value": "778",
+              "tendency": null
+            },
+            {
+              "value": "101",
+              "tendency": null
+            },
+            {
+              "value": "18",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024493",
+          "tournamentName": "The RSM Classic"
+        },
+        {
+          "rank": 14,
+          "displayName": "Valhalla Golf Club",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7609",
+              "tendency": null
+            },
+            {
+              "value": "70.574",
+              "tendency": null
+            },
+            {
+              "value": "-.426",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "38",
+              "tendency": null
+            },
+            {
+              "value": "1731",
+              "tendency": null
+            },
+            {
+              "value": "5179",
+              "tendency": null
+            },
+            {
+              "value": "1255",
+              "tendency": null
+            },
+            {
+              "value": "149",
+              "tendency": null
+            },
+            {
+              "value": "18",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024033",
+          "tournamentName": "PGA Championship"
+        },
+        {
+          "rank": 15,
+          "displayName": "TPC Sawgrass (THE PLAYERS Stadium Course)",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7275",
+              "tendency": null
+            },
+            {
+              "value": "71.471",
+              "tendency": null
+            },
+            {
+              "value": "-.529",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "58",
+              "tendency": null
+            },
+            {
+              "value": "1711",
+              "tendency": null
+            },
+            {
+              "value": "4633",
+              "tendency": null
+            },
+            {
+              "value": "1144",
+              "tendency": null
+            },
+            {
+              "value": "189",
+              "tendency": null
+            },
+            {
+              "value": "23",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024011",
+          "tournamentName": "THE PLAYERS Championship"
+        },
+        {
+          "rank": 16,
+          "displayName": "TPC Twin Cities",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7431",
+              "tendency": null
+            },
+            {
+              "value": "70.400",
+              "tendency": null
+            },
+            {
+              "value": "-.600",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "62",
+              "tendency": null
+            },
+            {
+              "value": "1764",
+              "tendency": null
+            },
+            {
+              "value": "5087",
+              "tendency": null
+            },
+            {
+              "value": "1156",
+              "tendency": null
+            },
+            {
+              "value": "184",
+              "tendency": null
+            },
+            {
+              "value": "27",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024525",
+          "tournamentName": "3M Open"
+        },
+        {
+          "rank": 17,
+          "displayName": "Castle Pines Golf Club",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "8130",
+              "tendency": null
+            },
+            {
+              "value": "71.375",
+              "tendency": null
+            },
+            {
+              "value": "-.626",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "15",
+              "tendency": null
+            },
+            {
+              "value": "789",
+              "tendency": null
+            },
+            {
+              "value": "2107",
+              "tendency": null
+            },
+            {
+              "value": "513",
+              "tendency": null
+            },
+            {
+              "value": "77",
+              "tendency": null
+            },
+            {
+              "value": "9",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024028",
+          "tournamentName": "BMW Championship"
+        },
+        {
+          "rank": 18,
+          "displayName": "Silverado Resort (North Course)",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7123",
+              "tendency": null
+            },
+            {
+              "value": "71.238",
+              "tendency": null
+            },
+            {
+              "value": "-.762",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "51",
+              "tendency": null
+            },
+            {
+              "value": "1596",
+              "tendency": null
+            },
+            {
+              "value": "4658",
+              "tendency": null
+            },
+            {
+              "value": "1013",
+              "tendency": null
+            },
+            {
+              "value": "146",
+              "tendency": null
+            },
+            {
+              "value": "24",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024464",
+          "tournamentName": "Procore Championship"
+        },
+        {
+          "rank": 19,
+          "displayName": "The Riviera Country Club",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7322",
+              "tendency": null
+            },
+            {
+              "value": "70.104",
+              "tendency": null
+            },
+            {
+              "value": "-.896",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "34",
+              "tendency": null
+            },
+            {
+              "value": "909",
+              "tendency": null
+            },
+            {
+              "value": "2663",
+              "tendency": null
+            },
+            {
+              "value": "672",
+              "tendency": null
+            },
+            {
+              "value": "36",
+              "tendency": null
+            },
+            {
+              "value": "6",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024007",
+          "tournamentName": "The Genesis Invitational"
+        },
+        {
+          "rank": 20,
+          "displayName": "PGA National Resort (The Champion)",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7147",
+              "tendency": null
+            },
+            {
+              "value": "70.097",
+              "tendency": null
+            },
+            {
+              "value": "-.903",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "53",
+              "tendency": null
+            },
+            {
+              "value": "1613",
+              "tendency": null
+            },
+            {
+              "value": "4826",
+              "tendency": null
+            },
+            {
+              "value": "936",
+              "tendency": null
+            },
+            {
+              "value": "161",
+              "tendency": null
+            },
+            {
+              "value": "25",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024010",
+          "tournamentName": "Cognizant Classic in The Palm Beaches"
+        },
+        {
+          "rank": 21,
+          "displayName": "Vidanta Vallarta",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7456",
+              "tendency": null
+            },
+            {
+              "value": "70.074",
+              "tendency": null
+            },
+            {
+              "value": "-.926",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "43",
+              "tendency": null
+            },
+            {
+              "value": "1542",
+              "tendency": null
+            },
+            {
+              "value": "4309",
+              "tendency": null
+            },
+            {
+              "value": "998",
+              "tendency": null
+            },
+            {
+              "value": "116",
+              "tendency": null
+            },
+            {
+              "value": "12",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024540",
+          "tournamentName": "Mexico Open at Vidanta"
+        },
+        {
+          "rank": 22,
+          "displayName": "Port Royal Golf Course",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "6828",
+              "tendency": null
+            },
+            {
+              "value": "69.974",
+              "tendency": null
+            },
+            {
+              "value": "-1.026",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "81",
+              "tendency": null
+            },
+            {
+              "value": "1533",
+              "tendency": null
+            },
+            {
+              "value": "4191",
+              "tendency": null
+            },
+            {
+              "value": "972",
+              "tendency": null
+            },
+            {
+              "value": "132",
+              "tendency": null
+            },
+            {
+              "value": "21",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024528",
+          "tournamentName": "Butterfield Bermuda Championship"
+        },
+        {
+          "rank": 23,
+          "displayName": "Sedgefield Country Club",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7131",
+              "tendency": null
+            },
+            {
+              "value": "68.948",
+              "tendency": null
+            },
+            {
+              "value": "-1.052",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "67",
+              "tendency": null
+            },
+            {
+              "value": "1674",
+              "tendency": null
+            },
+            {
+              "value": "5022",
+              "tendency": null
+            },
+            {
+              "value": "1067",
+              "tendency": null
+            },
+            {
+              "value": "106",
+              "tendency": null
+            },
+            {
+              "value": "20",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024013",
+          "tournamentName": "Wyndham Championship"
+        },
+        {
+          "rank": 24,
+          "displayName": "TPC Southwind",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7243",
+              "tendency": null
+            },
+            {
+              "value": "68.947",
+              "tendency": null
+            },
+            {
+              "value": "-1.054",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "21",
+              "tendency": null
+            },
+            {
+              "value": "1067",
+              "tendency": null
+            },
+            {
+              "value": "3236",
+              "tendency": null
+            },
+            {
+              "value": "624",
+              "tendency": null
+            },
+            {
+              "value": "86",
+              "tendency": null
+            },
+            {
+              "value": "6",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024027",
+          "tournamentName": "FedEx St. Jude Championship"
+        },
+        {
+          "rank": 25,
+          "displayName": "TPC Scottsdale (Stadium Course)",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7261",
+              "tendency": null
+            },
+            {
+              "value": "69.895",
+              "tendency": null
+            },
+            {
+              "value": "-1.105",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "49",
+              "tendency": null
+            },
+            {
+              "value": "1495",
+              "tendency": null
+            },
+            {
+              "value": "4766",
+              "tendency": null
+            },
+            {
+              "value": "979",
+              "tendency": null
+            },
+            {
+              "value": "59",
+              "tendency": null
+            },
+            {
+              "value": "14",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024003",
+          "tournamentName": "WM Phoenix Open"
+        },
+        {
+          "rank": 26,
+          "displayName": "The Dunes Golf and Beach Club",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7347",
+              "tendency": null
+            },
+            {
+              "value": "69.849",
+              "tendency": null
+            },
+            {
+              "value": "-1.151",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "44",
+              "tendency": null
+            },
+            {
+              "value": "1495",
+              "tendency": null
+            },
+            {
+              "value": "4689",
+              "tendency": null
+            },
+            {
+              "value": "971",
+              "tendency": null
+            },
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "1",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024553",
+          "tournamentName": "Myrtle Beach Classic"
+        },
+        {
+          "rank": 27,
+          "displayName": "Waialae Country Club",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7044",
+              "tendency": null
+            },
+            {
+              "value": "68.821",
+              "tendency": null
+            },
+            {
+              "value": "-1.180",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "68",
+              "tendency": null
+            },
+            {
+              "value": "1675",
+              "tendency": null
+            },
+            {
+              "value": "5203",
+              "tendency": null
+            },
+            {
+              "value": "1075",
+              "tendency": null
+            },
+            {
+              "value": "88",
+              "tendency": null
+            },
+            {
+              "value": "9",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024006",
+          "tournamentName": "Sony Open in Hawaii"
+        },
+        {
+          "rank": 28,
+          "displayName": "Sea Island Golf Club (Plantation Course)",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7060",
+              "tendency": null
+            },
+            {
+              "value": "70.802",
+              "tendency": null
+            },
+            {
+              "value": "-1.199",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "19",
+              "tendency": null
+            },
+            {
+              "value": "601",
+              "tendency": null
+            },
+            {
+              "value": "1790",
+              "tendency": null
+            },
+            {
+              "value": "348",
+              "tendency": null
+            },
+            {
+              "value": "46",
+              "tendency": null
+            },
+            {
+              "value": "4",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024493",
+          "tournamentName": "The RSM Classic"
+        },
+        {
+          "rank": 29,
+          "displayName": "The Renaissance Club",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7237",
+              "tendency": null
+            },
+            {
+              "value": "68.753",
+              "tendency": null
+            },
+            {
+              "value": "-1.247",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "38",
+              "tendency": null
+            },
+            {
+              "value": "1785",
+              "tendency": null
+            },
+            {
+              "value": "5200",
+              "tendency": null
+            },
+            {
+              "value": "1122",
+              "tendency": null
+            },
+            {
+              "value": "75",
+              "tendency": null
+            },
+            {
+              "value": "6",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024541",
+          "tournamentName": "Genesis Scottish Open"
+        },
+        {
+          "rank": 30,
+          "displayName": "ACCORDIA GOLF Narashino Country Club",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "7079",
+              "tendency": null
+            },
+            {
+              "value": "68.638",
+              "tendency": null
+            },
+            {
+              "value": "-1.362",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "18",
+              "tendency": null
+            },
+            {
+              "value": "1227",
+              "tendency": null
+            },
+            {
+              "value": "3570",
+              "tendency": null
+            },
+            {
+              "value": "664",
+              "tendency": null
+            },
+            {
+              "value": "74",
+              "tendency": null
+            },
+            {
+              "value": "9",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024527",
+          "tournamentName": "ZOZO CHAMPIONSHIP"
+        },
+        {
+          "rank": 31,
+          "displayName": "Spyglass Hill Golf Course",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7041",
+              "tendency": null
+            },
+            {
+              "value": "70.576",
+              "tendency": null
+            },
+            {
+              "value": "-1.425",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "7",
+              "tendency": null
+            },
+            {
+              "value": "312",
+              "tendency": null
+            },
+            {
+              "value": "928",
+              "tendency": null
+            },
+            {
+              "value": "176",
+              "tendency": null
+            },
+            {
+              "value": "15",
+              "tendency": null
+            },
+            {
+              "value": "2",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024005",
+          "tournamentName": "AT&T Pebble Beach Pro-Am"
+        },
+        {
+          "rank": 32,
+          "displayName": "Detroit Golf Club",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7370",
+              "tendency": null
+            },
+            {
+              "value": "70.539",
+              "tendency": null
+            },
+            {
+              "value": "-1.461",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "47",
+              "tendency": null
+            },
+            {
+              "value": "1803",
+              "tendency": null
+            },
+            {
+              "value": "5258",
+              "tendency": null
+            },
+            {
+              "value": "1054",
+              "tendency": null
+            },
+            {
+              "value": "74",
+              "tendency": null
+            },
+            {
+              "value": "8",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024524",
+          "tournamentName": "Rocket Mortgage Classic"
+        },
+        {
+          "rank": 33,
+          "displayName": "TPC Summerlin",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7255",
+              "tendency": null
+            },
+            {
+              "value": "69.518",
+              "tendency": null
+            },
+            {
+              "value": "-1.482",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "59",
+              "tendency": null
+            },
+            {
+              "value": "1679",
+              "tendency": null
+            },
+            {
+              "value": "4305",
+              "tendency": null
+            },
+            {
+              "value": "916",
+              "tendency": null
+            },
+            {
+              "value": "109",
+              "tendency": null
+            },
+            {
+              "value": "24",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024047",
+          "tournamentName": "Shriners Children's Open"
+        },
+        {
+          "rank": 999,
+          "displayName": "Tahoe Mountain Club (Old Greenwood)",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7480",
+              "tendency": null
+            },
+            {
+              "value": "69.482",
+              "tendency": null
+            },
+            {
+              "value": "-1.518",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "66",
+              "tendency": null
+            },
+            {
+              "value": "1914",
+              "tendency": null
+            },
+            {
+              "value": "0",
+              "tendency": null
+            },
+            {
+              "value": "0",
+              "tendency": null
+            },
+            {
+              "value": "0",
+              "tendency": null
+            },
+            {
+              "value": "0",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024472",
+          "tournamentName": "Barracuda Championship"
+        },
+        {
+          "rank": 34,
+          "displayName": "Puntacana Resort & Club (Corales Golf Course)",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7670",
+              "tendency": null
+            },
+            {
+              "value": "70.463",
+              "tendency": null
+            },
+            {
+              "value": "-1.537",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "50",
+              "tendency": null
+            },
+            {
+              "value": "1622",
+              "tendency": null
+            },
+            {
+              "value": "4601",
+              "tendency": null
+            },
+            {
+              "value": "920",
+              "tendency": null
+            },
+            {
+              "value": "64",
+              "tendency": null
+            },
+            {
+              "value": "15",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024522",
+          "tournamentName": "Corales Puntacana Championship"
+        },
+        {
+          "rank": 35,
+          "displayName": "Harbour Town Golf Links",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7213",
+              "tendency": null
+            },
+            {
+              "value": "69.352",
+              "tendency": null
+            },
+            {
+              "value": "-1.649",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "25",
+              "tendency": null
+            },
+            {
+              "value": "1114",
+              "tendency": null
+            },
+            {
+              "value": "3207",
+              "tendency": null
+            },
+            {
+              "value": "540",
+              "tendency": null
+            },
+            {
+              "value": "79",
+              "tendency": null
+            },
+            {
+              "value": "3",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024012",
+          "tournamentName": "RBC Heritage"
+        },
+        {
+          "rank": 36,
+          "displayName": "El Cardonal at Diamante Cabo San Lucas",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7452",
+              "tendency": null
+            },
+            {
+              "value": "70.256",
+              "tendency": null
+            },
+            {
+              "value": "-1.744",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "54",
+              "tendency": null
+            },
+            {
+              "value": "1702",
+              "tendency": null
+            },
+            {
+              "value": "4041",
+              "tendency": null
+            },
+            {
+              "value": "801",
+              "tendency": null
+            },
+            {
+              "value": "118",
+              "tendency": null
+            },
+            {
+              "value": "34",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024457",
+          "tournamentName": "World Wide Technology Championship"
+        },
+        {
+          "rank": 37,
+          "displayName": "Grand Reserve Golf Club",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7506",
+              "tendency": null
+            },
+            {
+              "value": "70.069",
+              "tendency": null
+            },
+            {
+              "value": "-1.931",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "35",
+              "tendency": null
+            },
+            {
+              "value": "1697",
+              "tendency": null
+            },
+            {
+              "value": "4708",
+              "tendency": null
+            },
+            {
+              "value": "833",
+              "tendency": null
+            },
+            {
+              "value": "67",
+              "tendency": null
+            },
+            {
+              "value": "4",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024483",
+          "tournamentName": "Puerto Rico Open"
+        },
+        {
+          "rank": 38,
+          "displayName": "Black Desert Resort",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7371",
+              "tendency": null
+            },
+            {
+              "value": "69.061",
+              "tendency": null
+            },
+            {
+              "value": "-1.939",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "66",
+              "tendency": null
+            },
+            {
+              "value": "1799",
+              "tendency": null
+            },
+            {
+              "value": "4296",
+              "tendency": null
+            },
+            {
+              "value": "798",
+              "tendency": null
+            },
+            {
+              "value": "146",
+              "tendency": null
+            },
+            {
+              "value": "23",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024554",
+          "tournamentName": "Black Desert Championship"
+        },
+        {
+          "rank": 39,
+          "displayName": "TPC Deere Run",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7289",
+              "tendency": null
+            },
+            {
+              "value": "68.781",
+              "tendency": null
+            },
+            {
+              "value": "-2.219",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "53",
+              "tendency": null
+            },
+            {
+              "value": "2058",
+              "tendency": null
+            },
+            {
+              "value": "5237",
+              "tendency": null
+            },
+            {
+              "value": "922",
+              "tendency": null
+            },
+            {
+              "value": "91",
+              "tendency": null
+            },
+            {
+              "value": "9",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024030",
+          "tournamentName": "John Deere Classic"
+        },
+        {
+          "rank": 40,
+          "displayName": "Pebble Beach Golf Links",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "6972",
+              "tendency": null
+            },
+            {
+              "value": "69.632",
+              "tendency": null
+            },
+            {
+              "value": "-2.369",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "23",
+              "tendency": null
+            },
+            {
+              "value": "704",
+              "tendency": null
+            },
+            {
+              "value": "1822",
+              "tendency": null
+            },
+            {
+              "value": "296",
+              "tendency": null
+            },
+            {
+              "value": "31",
+              "tendency": null
+            },
+            {
+              "value": "4",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024005",
+          "tournamentName": "AT&T Pebble Beach Pro-Am"
+        },
+        {
+          "rank": 41,
+          "displayName": "TPC River Highlands",
+          "values": [
+            {
+              "value": "70",
+              "tendency": null
+            },
+            {
+              "value": "6835",
+              "tendency": null
+            },
+            {
+              "value": "67.629",
+              "tendency": null
+            },
+            {
+              "value": "-2.371",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "34",
+              "tendency": null
+            },
+            {
+              "value": "1248",
+              "tendency": null
+            },
+            {
+              "value": "3181",
+              "tendency": null
+            },
+            {
+              "value": "513",
+              "tendency": null
+            },
+            {
+              "value": "55",
+              "tendency": null
+            },
+            {
+              "value": "9",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024034",
+          "tournamentName": "Travelers Championship"
+        },
+        {
+          "rank": 42,
+          "displayName": "East Lake Golf Club",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7490",
+              "tendency": null
+            },
+            {
+              "value": "68.618",
+              "tendency": null
+            },
+            {
+              "value": "-2.383",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "11",
+              "tendency": null
+            },
+            {
+              "value": "565",
+              "tendency": null
+            },
+            {
+              "value": "1318",
+              "tendency": null
+            },
+            {
+              "value": "234",
+              "tendency": null
+            },
+            {
+              "value": "30",
+              "tendency": null
+            },
+            {
+              "value": "2",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024060",
+          "tournamentName": "TOUR Championship"
+        },
+        {
+          "rank": 43,
+          "displayName": "Torrey Pines Golf Course (North Course)",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7258",
+              "tendency": null
+            },
+            {
+              "value": "69.501",
+              "tendency": null
+            },
+            {
+              "value": "-2.500",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "31",
+              "tendency": null
+            },
+            {
+              "value": "681",
+              "tendency": null
+            },
+            {
+              "value": "1756",
+              "tendency": null
+            },
+            {
+              "value": "328",
+              "tendency": null
+            },
+            {
+              "value": "11",
+              "tendency": null
+            },
+            {
+              "value": "1",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024004",
+          "tournamentName": "Farmers Insurance Open"
+        },
+        {
+          "rank": 44,
+          "displayName": "TPC Craig Ranch",
+          "values": [
+            {
+              "value": "71",
+              "tendency": null
+            },
+            {
+              "value": "7414",
+              "tendency": null
+            },
+            {
+              "value": "68.497",
+              "tendency": null
+            },
+            {
+              "value": "-2.503",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "48",
+              "tendency": null
+            },
+            {
+              "value": "1980",
+              "tendency": null
+            },
+            {
+              "value": "5002",
+              "tendency": null
+            },
+            {
+              "value": "848",
+              "tendency": null
+            },
+            {
+              "value": "57",
+              "tendency": null
+            },
+            {
+              "value": "3",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024019",
+          "tournamentName": "THE CJ CUP Byron Nelson"
+        },
+        {
+          "rank": 45,
+          "displayName": "The Country Club of Jackson",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7461",
+              "tendency": null
+            },
+            {
+              "value": "69.416",
+              "tendency": null
+            },
+            {
+              "value": "-2.585",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "32",
+              "tendency": null
+            },
+            {
+              "value": "1791",
+              "tendency": null
+            },
+            {
+              "value": "4520",
+              "tendency": null
+            },
+            {
+              "value": "711",
+              "tendency": null
+            },
+            {
+              "value": "48",
+              "tendency": null
+            },
+            {
+              "value": "8",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024054",
+          "tournamentName": "Sanderson Farms Championship"
+        },
+        {
+          "rank": 46,
+          "displayName": "Keene Trace Golf Club (Champion Trace)",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7328",
+              "tendency": null
+            },
+            {
+              "value": "69.363",
+              "tendency": null
+            },
+            {
+              "value": "-2.637",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "109",
+              "tendency": null
+            },
+            {
+              "value": "2087",
+              "tendency": null
+            },
+            {
+              "value": "4792",
+              "tendency": null
+            },
+            {
+              "value": "894",
+              "tendency": null
+            },
+            {
+              "value": "91",
+              "tendency": null
+            },
+            {
+              "value": "19",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024518",
+          "tournamentName": "ISCO Championship"
+        },
+        {
+          "rank": 47,
+          "displayName": "Pete Dye Stadium Course",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7187",
+              "tendency": null
+            },
+            {
+              "value": "69.149",
+              "tendency": null
+            },
+            {
+              "value": "-2.852",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "24",
+              "tendency": null
+            },
+            {
+              "value": "1128",
+              "tendency": null
+            },
+            {
+              "value": "2433",
+              "tendency": null
+            },
+            {
+              "value": "339",
+              "tendency": null
+            },
+            {
+              "value": "74",
+              "tendency": null
+            },
+            {
+              "value": "16",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024002",
+          "tournamentName": "The American Express"
+        },
+        {
+          "rank": 48,
+          "displayName": "Nicklaus Tournament Course",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7159",
+              "tendency": null
+            },
+            {
+              "value": "68.085",
+              "tendency": null
+            },
+            {
+              "value": "-3.916",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "20",
+              "tendency": null
+            },
+            {
+              "value": "875",
+              "tendency": null
+            },
+            {
+              "value": "1640",
+              "tendency": null
+            },
+            {
+              "value": "210",
+              "tendency": null
+            },
+            {
+              "value": "39",
+              "tendency": null
+            },
+            {
+              "value": "6",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024002",
+          "tournamentName": "The American Express"
+        },
+        {
+          "rank": 49,
+          "displayName": "La Quinta CC",
+          "values": [
+            {
+              "value": "72",
+              "tendency": null
+            },
+            {
+              "value": "7060",
+              "tendency": null
+            },
+            {
+              "value": "67.905",
+              "tendency": null
+            },
+            {
+              "value": "-4.097",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "37",
+              "tendency": null
+            },
+            {
+              "value": "862",
+              "tendency": null
+            },
+            {
+              "value": "1632",
+              "tendency": null
+            },
+            {
+              "value": "222",
+              "tendency": null
+            },
+            {
+              "value": "32",
+              "tendency": null
+            },
+            {
+              "value": "5",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024002",
+          "tournamentName": "The American Express"
+        },
+        {
+          "rank": 50,
+          "displayName": "Plantation Course at Kapalua",
+          "values": [
+            {
+              "value": "73",
+              "tendency": null
+            },
+            {
+              "value": "7596",
+              "tendency": null
+            },
+            {
+              "value": "68.366",
+              "tendency": null
+            },
+            {
+              "value": "-4.636",
+              "tendency": "BELOW"
+            },
+            {
+              "value": "54",
+              "tendency": null
+            },
+            {
+              "value": "1365",
+              "tendency": null
+            },
+            {
+              "value": "2498",
+              "tendency": null
+            },
+            {
+              "value": "291",
+              "tendency": null
+            },
+            {
+              "value": "32",
+              "tendency": null
+            },
+            {
+              "value": "8",
+              "tendency": null
+            }
+          ],
+          "tournamentId": "R2024016",
+          "tournamentName": "The Sentry"
+        }
+      ]
+    }
+  }
+}
